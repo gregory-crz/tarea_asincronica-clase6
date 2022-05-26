@@ -1,0 +1,9 @@
+.card{
+    margin: auto;
+    display: block;
+}
+body{
+    background-image: url(https://th.bing.com/th/id/OIP.A4pEqlAANwHzh4O58Hm-awHaEK?pid=ImgDet&rs=1);
+    margin: auto;
+    background-size: cover;
+}
